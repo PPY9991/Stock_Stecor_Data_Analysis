@@ -168,7 +168,7 @@ def main():
     """主函数"""
     try:
         # 设置token和数据目录
-        token = '94dab43691e9de6efe181288968723ca36f358382552cf76a90815f2'
+        token = 'your own token!'
         project_root = Path(__file__).parent.parent
         data_dir = project_root / 'data' / 'stock_data'
         os.makedirs(data_dir, exist_ok=True)

@@ -1,5 +1,5 @@
 # Tushare API configuration
-TUSHARE_TOKEN = '94dab43691e9de6efe181288968723ca36f358382552cf76a90815f2'
+TUSHARE_TOKEN = your token
 
 # File paths
 DATA_PATH = 'Z:/'
